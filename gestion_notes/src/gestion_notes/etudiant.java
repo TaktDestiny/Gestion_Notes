@@ -22,4 +22,5 @@ public class etudiant {
 	{
 		if(this.note==e.note) return true;
 		return false;
+	}
 }
